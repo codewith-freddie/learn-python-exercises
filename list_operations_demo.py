@@ -1,3 +1,6 @@
+# Task: Write a Python script demonstrating various list operations in Python.
+# Operations include indexing, slicing, modifying, appending, removing, sorting, length checking, iteration, membership testing, copying, and clearing.
+
 #1
 fruits = ["apple","banana","orange","avocado","jackfruit"]
 print(fruits)
@@ -56,3 +59,8 @@ print(copied_list)
 #12
 fruits.clear()
 print(fruits)
+
+# Explanation: This script demonstrates a wide range of list operations in Python.
+# It covers accessing elements, slicing, modifying, adding, removing, sorting, checking length, iterating, membership testing, copying, and clearing lists.
+# This example teaches fundamental list manipulation techniques essential for Python programming.
+# Suggested title: list_operations_demo.py
