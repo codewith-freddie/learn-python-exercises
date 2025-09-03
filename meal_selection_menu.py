@@ -1,4 +1,8 @@
 
+# Task: Write a Python script that allows the user to select a meal from lunch or dinner options.
+# First, ask for lunch or dinner, display the corresponding menu.
+# Then, ask for the meal choice number and display the selected meal using nested if statements.
+
 #IF STATEMENT No. 4
 menu_choice = str(input("Please enter if lunch or dinner : "))
 
@@ -32,6 +36,12 @@ else:
 
 
 print("\nYou order: " + selected_meal)
+
+
+# Explanation: This script demonstrates the use of if-elif-else statements for menu selection and nested conditions.
+# It handles user input for meal type and choice, assigns the selected meal, and provides a warning for invalid inputs.
+# This example teaches conditional logic, logical operators (and), and string handling in Python.
+# Suggested title: meal_selector.py
 
      
 

@@ -1,3 +1,6 @@
+# Task: Write a Python script demonstrating comprehensive list and dictionary operations.
+# Include creating, accessing, modifying, sorting, iterating, and advanced features like list comprehensions and sorting with keys.
+
 # List and Dictionary Operations in One File
 
 # --- List Operations ---
@@ -204,3 +207,8 @@ print(copied_list)
 #12
 fruits.clear()
 print(fruits)
+
+# Explanation: This script provides a comprehensive demonstration of list and dictionary operations in Python.
+# It covers basic operations like creating, accessing, and modifying, as well as advanced features such as sorting with keys, list comprehensions, and nested structures.
+# This example teaches essential data structure manipulation skills for Python programming.
+# Suggested title: list_dict_operations.py
